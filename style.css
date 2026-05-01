@@ -1,0 +1,21 @@
+body{
+    background-image: url(map.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+
+p, h1{
+    color: rgb(245, 201, 7);
+    background: rgb(0, 156, 65);
+
+    border: 2px solid rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(223, 208, 0);
+    font-style: italic;
+}
